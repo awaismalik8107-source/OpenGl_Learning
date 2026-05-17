@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Build folders
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# User files
+*.user
+*.suo

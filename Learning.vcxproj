@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="src\enumeration.cpp" />
     <ClCompile Include="src\typedef.cpp" />
+    <ClCompile Include="src\WindowGLFW.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
