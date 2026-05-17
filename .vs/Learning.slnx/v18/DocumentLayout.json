@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D5AB74-BC42-40F2-9460-BCB1FDD3B0E1}|Learning.vcxproj|C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\typedef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D5AB74-BC42-40F2-9460-BCB1FDD3B0E1}|Learning.vcxproj|solutionrelative:src\\typedef.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D5AB74-BC42-40F2-9460-BCB1FDD3B0E1}|Learning.vcxproj|C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\enumeration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3D5AB74-BC42-40F2-9460-BCB1FDD3B0E1}|Learning.vcxproj|solutionrelative:src\\enumeration.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enumeration.cpp",
+              "DocumentMoniker": "C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\enumeration.cpp",
+              "RelativeDocumentMoniker": "src\\enumeration.cpp",
+              "ToolTip": "C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\enumeration.cpp",
+              "RelativeToolTip": "src\\enumeration.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T02:34:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "typedef.cpp",
+              "DocumentMoniker": "C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\typedef.cpp",
+              "RelativeDocumentMoniker": "src\\typedef.cpp",
+              "ToolTip": "C:\\Users\\awais\\Desktop\\c\u002B\u002B_learning_Convention\\Learning\\src\\typedef.cpp",
+              "RelativeToolTip": "src\\typedef.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T02:19:40.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
